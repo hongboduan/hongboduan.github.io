@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="380" viewBox="0 0 640 380" role="img" aria-labelledby="title desc">
+<title id="title">ZERITH V2.5 overview</title><desc id="desc">Two-stage video model adaptation and joint policy learning.</desc>
+<rect width="640" height="380" rx="16" fill="#f5f6f9"/>
+<text x="38" y="65" font-family="Arial,Helvetica,sans-serif" font-size="35" font-weight="700" fill="#28263b">ZERITH V2.5</text>
+<text x="38" y="96" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#625e73">From Predictive Power to Policy Learnability</text>
+<rect x="38" y="132" width="248" height="150" rx="12" fill="#e5e0f9" stroke="#b9a8ec" stroke-width="2"/>
+<text x="162" y="175" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="20" text-anchor="middle" fill="#503990">S1 · Visual Adaptation</text>
+<text x="162" y="211" font-family="Arial,Helvetica,sans-serif" font-size="15" text-anchor="middle" fill="#503990">Predict future video</text>
+<text x="162" y="235" font-family="Arial,Helvetica,sans-serif" font-size="15" text-anchor="middle" fill="#503990">3,000 updates</text>
+<path d="M302 205 H335" stroke="#665d84" stroke-width="4" stroke-linecap="round"/><path d="M328 196 L341 205 L328 214" fill="none" stroke="#665d84" stroke-width="4" stroke-linecap="round"/>
+<rect x="352" y="132" width="248" height="150" rx="12" fill="#dceef6" stroke="#9cc9df" stroke-width="2"/>
+<text x="476" y="175" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="20" text-anchor="middle" fill="#225873">S2 · Policy Learning</text>
+<text x="476" y="211" font-family="Arial,Helvetica,sans-serif" font-size="15" text-anchor="middle" fill="#225873">Joint video + action</text>
+<text x="476" y="235" font-family="Arial,Helvetica,sans-serif" font-size="15" text-anchor="middle" fill="#225873">27,000 updates</text>
+<text x="320" y="329" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="600" text-anchor="middle" fill="#39374a">Video–Action Model · Z-Lab Technical Report</text>
+</svg>
